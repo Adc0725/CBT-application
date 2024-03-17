@@ -1,0 +1,19 @@
+Question Text,Option A,Option B,Option C,Option D,Correct Option
+What is the main character's name in "Naruto"?,Sasuke,Sakura,Itachi,Naruto,D
+In "Attack on Titan" what are the giant humanoid creatures called?,Titans,Giants,Kaiju,Colossals,A
+Which anime features a character named Luffy searching for the One Piece?,Naruto,Bleach,One Piece,Dragon Ball Z,C
+What is the name of the magical academy in "Little Witch Academia"?,Hogwarts,Luna Nova,Yokai Academy,Hexside,B
+Who is known as the "Strongest Hero" in "One Punch Man"?,Saitama,Genos,Mumen Rider,Boros,A
+In "My Hero Academia" what is All Might's real name?,Toshinori Yagi,Shoto Todoroki,Izuku Midoriya,Katsuki Bakugo,A
+Which anime follows the adventures of Edward and Alphonse Elric in their quest for the Philosopher's Stone?,Attack on Titan,Naruto,Fullmetal Alchemist,Death Note,C
+What is the name of the Death Note owner in "Death Note"?,Luffy,Light Yagami,Misa Amane,Ryuk,B
+In "Demon Slayer" what is Tanjiro Kamado's sister transformed into?,Demon,Spider,Dragon,Nezuko,A
+Which anime is set in a world where players control avatars in a virtual reality MMORPG?,Sword Art Online,Black Clover,One Punch Man,Fullmetal Alchemist,A
+Who is the main character of "jujutsu kaisen",Itadori yuji,Gojo Satoru,Yuta okkotsu,shinji hakari,A 
+In "Dragon Ball Z" what is Goku's signature attack?,Kamehameha,Spirit Bomb,Final Flash,Masenko,A
+Who is the main character in "Death Note"?,Lelouch Lamperouge,L,Light Yagami,Misa Amane,C
+In "Demon Slayer" what is Tanjiro Kamado's profession before becoming a demon slayer?,Blacksmith,Farmer,Doctor,Swordsman,B
+Which anime is known for its giant humanoid robots called Evangelions?,Gundam,Code Geass,Neon Genesis Evangelion,Macross,C
+What is the name of the magical guild in "Fairy Tail"?,Blue Pegasus,Sabertooth,Mermaid Heel,Fairy Tail,D
+In "Hunter x Hunter" what is the main character Gon Freecss searching for?,One Piece,Dragon Balls,Nen Abilities,His Father,A
+Who previously had the black flash record before yuji in "jujutsu kaisen",Kento Nanami,Gojo Satoru,Aoi Todo,Mechamaru,A
